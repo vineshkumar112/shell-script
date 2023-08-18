@@ -8,6 +8,8 @@ then
 
 else 
   
-    echo "$NUMBER number ot    greater than "
+    echo "$NUMBER number not    greater than "
     
+
+fi
     
